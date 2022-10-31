@@ -1,4 +1,4 @@
-# Pandas Study archive
+# Pandas Study archive v0.1.1
 
 ## [1. 시리즈](ARCHIVE/Part1_Series.ipynb) <br>
     시리즈에 대한 간단한 정리
